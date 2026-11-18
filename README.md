@@ -1,0 +1,1 @@
+# Krynox-vendas
